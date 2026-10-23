@@ -6,4 +6,3 @@ Registro de mi aprendizaje de Python.
 - Escribí mi primer programa con print().
 - Practiqué variables y tipos de datos.
 
-- Dia 1: primer notebook y variables basicas
